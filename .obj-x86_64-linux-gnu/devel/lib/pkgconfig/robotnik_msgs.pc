@@ -1,0 +1,8 @@
+prefix=/home/uwarl/UWARL_catkin_ws/src/robotnik_msgs/.obj-x86_64-linux-gnu/devel
+
+Name: robotnik_msgs
+Description: Description of robotnik_msgs
+Version: 2.2.0
+Cflags: -I/home/uwarl/UWARL_catkin_ws/src/robotnik_msgs/.obj-x86_64-linux-gnu/devel/include
+Libs: -L${prefix}/lib 
+Requires: actionlib_msgs message_runtime std_msgs geometry_msgs
